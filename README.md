@@ -1,4 +1,4 @@
-# oro README
+# Oro Overview
 
 Oro is an open-source, interpreted programming language that seeks to simplify and optimize text processing through intuitive syntax and efficient, specialized functions for large-scale text manipulation.
 
