@@ -1,0 +1,36 @@
+{
+  "name": "oro",
+  "displayName": "oro-lang-syntax",
+  "description": "Syntax highlighting and file icons for the Oro programming language.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [{
+      "id": "oro",
+      "aliases": ["Oro", "oro"],
+      "extensions": [".oro"],
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "oro",
+      "scopeName": "",
+      "path": "./syntaxes/oro.tmLanguage.json"
+    }],
+    "iconThemes": [
+      {
+          "id": "oro-icons",
+          "label": "Oro File Icons",
+          "path": "./icons/oro-icon-theme.json"
+      }
+  ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/your-repo.git"
+  }
+}

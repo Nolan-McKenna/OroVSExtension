@@ -1,0 +1,14 @@
+{
+    "iconDefinitions": {
+        "oro": {
+            "iconPath": "./oro-icon.svg"
+        }
+    },
+    "fileExtensions": {
+        "oro": "oro"
+    },
+    "fileNames": {},
+    "languageIds": {
+        "oro": "oro"
+    }
+}

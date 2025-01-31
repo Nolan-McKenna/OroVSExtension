@@ -1,0 +1,23 @@
+{
+    "name": "Oro",
+    "scopeName": "source.oro",
+    "patterns": [
+        {
+            "name": "keyword.control.oro",
+            "match": "\\b(if|else|while|for|return|super|self|true|false|null|and|or|def|extends|class|fun|print)\\b"
+        },
+        {
+            "name": "constant.numeric.oro",
+            "match": "\\b\\d+(\\.\\d+)?\\b"
+        },
+        {
+            "name": "string.quoted.double.oro",
+            "match": "\".*?\""
+        },
+        {
+            "name": "comment.line.hashtag.oro",
+            "match": "#.*$"
+        }
+    ],
+    "repository": {}
+}
