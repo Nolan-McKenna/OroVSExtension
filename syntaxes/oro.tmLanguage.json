@@ -19,5 +19,6 @@
             "match": "#.*$"
         }
     ],
-    "repository": {}
+    "repository": {},
+    "fileTypes": ["oro"]
 }

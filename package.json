@@ -2,9 +2,10 @@
   "name": "oro",
   "displayName": "oro-lang-syntax",
   "description": "Syntax highlighting and file icons for the Oro programming language.",
-  "version": "0.0.1",
+  "version": "0.0.4",
+  "publisher": "NolanMcKenna",
   "engines": {
-    "vscode": "^1.96.0"
+    "vscode": "^1.60.0"
   },
   "categories": [
     "Programming Languages"
@@ -18,7 +19,7 @@
     }],
     "grammars": [{
       "language": "oro",
-      "scopeName": "",
+      "scopeName": "source.oro",
       "path": "./syntaxes/oro.tmLanguage.json"
     }],
     "iconThemes": [
@@ -31,6 +32,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/your-repo.git"
+    "url": "https://github.com/Nolan-McKenna/OroVSExtension/tree/master"
   }
 }
