@@ -8,9 +8,13 @@ Oro is an open-source, interpreted programming language that seeks to simplify a
 
 ## Release Notes
 
-Basic syntax highlioghting for the Oro programming language
+This repository contains the code for the ['oro-lang-syntax'](https://marketplace.visualstudio.com/items?itemName=NolanMcKenna.oro) VS Code extension. 
 
-### 1.0.0
+## Tools 
 
-Initial release of Oro VS Code Extension
+[Yeoman VSCode Extension Generator](https://yeoman.io/)
+
+### 0.0.3
+
+Fixed keyword highlighting and adjusted file icon to be more visible within VS Code.
 
