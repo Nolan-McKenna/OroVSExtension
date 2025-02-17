@@ -2,8 +2,9 @@
   "name": "oro",
   "displayName": "oro-lang-syntax",
   "description": "Syntax highlighting and file icons for the Oro programming language.",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "NolanMcKenna",
+  "icon": "VSCodeEXT_Logo.png", 
   "engines": {
     "vscode": "^1.60.0"
   },
